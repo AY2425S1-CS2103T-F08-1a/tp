@@ -22,10 +22,9 @@ import seedu.address.model.person.Remark;
  * Contains integration tests (interaction with the Model) and unit tests for RemarkCommand.
  */
 public class RemarkCommandTest {
-
+    private static final Index INDEX_FIRST_PERSON = Index.fromOneBased(1);
+    private static final Index INDEX_SECOND_PERSON = Index.fromOneBased(2);
     private Model model = new ModelManager(getTypicalAddressBook(), new UserPrefs());
-    private final Index INDEX_FIRST_PERSON = Index.fromOneBased(1);
-    private final Index INDEX_SECOND_PERSON = Index.fromOneBased(2);
 
     @Test
     public void execute_invalidPersonIndexUnfilteredList_failure() {
@@ -46,7 +45,7 @@ public class RemarkCommandTest {
         assertTrue(outOfBoundIndex.getZeroBased() < model.getAddressBook().getPersonList().size());
         RemarkCommand remarkCommand = new RemarkCommand(outOfBoundIndex, new Remark(VALID_REMARK_BOB));
         assertCommandFailure(remarkCommand, model, Messages.MESSAGE_INVALID_PERSON_DISPLAYED_INDEX);
-        }
+    }
 
     @Test
     public void equals() {
