@@ -11,7 +11,8 @@
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
         "ivan-jerrick-koh": "Ivan Jerrick Koh",
-        "james-doe": "James Doe"
+        "james-doe": "James Doe",
+        "mingyang": "Mingyang"
       },
       "headingKeywords": {}
     },
@@ -137,6 +138,14 @@
     },
     {
       "src": "team/kohkakohla.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/mingyang.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
