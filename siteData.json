@@ -7,6 +7,7 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
+        "lincoln-yao": "Lincoln Yao",
         "evan-siah": "Evan Siah",
         "ivan-jerrick-koh": "Ivan Jerrick Koh",
         "mingyang": "Mingyang"
@@ -154,6 +155,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-voluntier": "Project: VolunTier"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/plishh.md",
+      "title": "Lincoln's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     }
