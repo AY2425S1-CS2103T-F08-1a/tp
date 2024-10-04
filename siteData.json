@@ -7,11 +7,8 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "evan-siah": "Evan Siah",
         "ivan-jerrick-koh": "Ivan Jerrick Koh",
-        "james-doe": "James Doe",
         "mingyang": "Mingyang"
       },
       "headingKeywords": {}
@@ -137,6 +134,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/evan.md",
+      "title": "Evan's Project Portfolio Page",
+      "headings": {
+        "project-voluntier": "Project: VolunTier"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/kohkakohla.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
@@ -148,7 +153,7 @@
       "src": "team/mingyang.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-voluntier": "Project: VolunTier"
       },
       "headingKeywords": {}
     }
