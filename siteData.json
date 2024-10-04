@@ -8,7 +8,6 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "estelle": "Estelle",
-        "github-portfolio": "[github]\n[portfolio]",
         "lincoln-yao": "Lincoln Yao",
         "evan-siah": "Evan Siah",
         "ivan-jerrick-koh": "Ivan Jerrick Koh",
@@ -108,7 +107,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "voluntier-user-guide": "VolunTier User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -132,7 +131,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "voluntier": "VolunTier"
       },
       "headingKeywords": {}
     },
@@ -140,7 +139,7 @@
       "src": "team/estellelim.md",
       "title": "Estelle's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-voluntier": "Project: VolunTier"
       },
       "headingKeywords": {}
     },
@@ -156,7 +155,7 @@
       "src": "team/kohkakohla.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-voluntier": "Project: VolunTier"
       },
       "headingKeywords": {}
     },
@@ -164,7 +163,7 @@
       "src": "team/mingyang.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
-        "project-voluntier": "Project: VolunTier"
+        "voluntier": "VolunTier"
       },
       "headingKeywords": {}
     },
@@ -172,7 +171,7 @@
       "src": "team/plishh.md",
       "title": "Lincoln's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "voluntier": "VolunTier"
       },
       "headingKeywords": {}
     }
