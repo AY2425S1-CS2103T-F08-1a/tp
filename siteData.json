@@ -7,6 +7,8 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
+        "estelle": "Estelle",
+        "github-portfolio": "[github]\n[portfolio]",
         "lincoln-yao": "Lincoln Yao",
         "evan-siah": "Evan Siah",
         "ivan-jerrick-koh": "Ivan Jerrick Koh",
@@ -131,6 +133,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/estellelim.md",
+      "title": "Estelle's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     },
