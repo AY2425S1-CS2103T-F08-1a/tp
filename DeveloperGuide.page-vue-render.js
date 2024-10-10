@@ -269,7 +269,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to add a new perso
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. User inputs a name and address that already exists.")]),_v(" "),_c('ul',[_c('li',[_v("3a1. VolunTier notifies the user that the person already exists.")])]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])]),_v(" "),_c('li',[_c('p',[_v("3b. User inputs invalid or incomplete details.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. VolunTier shows an error message indicating the missing or invalid fields.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. User inputs a name and address that already exists.")]),_v(" "),_c('ul',[_c('li',[_v("3a1. VolunTier notifies the user that the person already exists.")])]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])]),_v(" "),_c('li',[_c('p',[_v("3b. User inputs invalid or incomplete details.")]),_v(" "),_c('ul',[_c('li',[_v("3b1. VolunTier shows an error message indicating the missing or invalid fields.")])]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC4 - Update a person's details")])])}
@@ -284,7 +284,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User "),_c('u',[_v("views list o
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. VolunTier shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("4a. User inputs invalid or incomplete details.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("4a1. VolunTier shows an error message specifying the mistake.")]),_v(" "),_c('p',[_v("Use case resumes at step 4.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_v("2a1. VolunTier shows an error message.")])]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])]),_v(" "),_c('li',[_c('p',[_v("4a. User inputs invalid or incomplete details.")]),_v(" "),_c('ul',[_c('li',[_v("4a1. VolunTier shows an error message specifying the mistake.")])]),_v(" "),_c('p',[_v("Use case resumes at step 4.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"non-functional-requirements"}},[_v("Non-Functional Requirements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#non-functional-requirements","onclick":"event.stopPropagation()"}})])}
@@ -320,6 +320,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 10 Oct 2024, 22:11:45 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 10 Oct 2024, 23:24:11 GMT+8]")])])])}
 }];
   
