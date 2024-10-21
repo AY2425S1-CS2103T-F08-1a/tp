@@ -99,7 +99,8 @@
       "headings": {
         "voluntier-user-guide": "VolunTier User Guide",
         "quick-start": "Quick start",
-        "features": "Features",
+        "installation-of-application": "Installation of application",
+        "cli-tutorial": "CLI tutorial",
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
