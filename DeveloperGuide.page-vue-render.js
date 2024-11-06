@@ -11,7 +11,7 @@ with(this){return _c('h1',{attrs:{"id":"voluntier-developer-guide"}},[_v("VolunT
 with(this){return _c('h2',{attrs:{"id":"acknowledgements"}},[_c('strong',[_v("Acknowledgements")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#acknowledgements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("This project is based on the AddressBook-Level3 project created by the "),_c('a',{attrs:{"href":"https://se-education.org"}},[_v("SE-EDU initiative")]),_v(".")])])}
+with(this){return _c('ul',[_c('li',[_v("This project is based on the AddressBook-Level3 project created by the "),_c('a',{attrs:{"href":"https://se-education.org"}},[_v("SE-EDU initiative")]),_v(".")]),_v(" "),_c('li',[_v("The feature Undo, Redo and History (including the code) was reused with minimal changes from "),_c('a',{attrs:{"href":"https://github.com/se-edu/addressbook-level4.git"}},[_v("AddressBook-Level4")]),_v(" ("),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level4/UserGuide.html"}},[_v("UG")]),_v(", "),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level4/DeveloperGuide.html"}},[_v("DG")]),_v(").")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"setting-up-getting-started"}},[_c('strong',[_v("Setting up, getting started")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#setting-up-getting-started","onclick":"event.stopPropagation()"}})])}
@@ -200,6 +200,6 @@ with(this){return _c('h4',{attrs:{"id":"proposed-implementation-2"}},[_v("Propos
 with(this){return _c('p',[_v("Given below is the sequence diagram on how the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view 1")]),_v(" command is executed:")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 1 Nov 2024, 23:02:39 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 6 Nov 2024, 13:52:28 GMT+8]")])])])}
 }];
   
