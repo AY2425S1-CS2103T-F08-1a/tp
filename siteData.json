@@ -51,9 +51,9 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
-        "proposed-view-command": "[Proposed] View Command",
+        "csv-import-feature": "CSV import feature",
+        "view-tutee-chart-feature": "View Tutee Chart feature",
+        "undo-redo-feature": "Undo/redo feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -68,7 +68,6 @@
         "adding-a-tutor": "Adding a tutor",
         "editing-a-tutor": "Editing a tutor",
         "find-subjects": "Find subjects",
-        "saving-data": "Saving data",
         "adding-a-lesson": "Adding a lesson"
       },
       "headingKeywords": {}
