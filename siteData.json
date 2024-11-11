@@ -110,12 +110,14 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "User Guide",
       "headings": {
         "voluntier-user-guide": "VolunTier User Guide",
         "introduction": "Introduction",
         "quick-start": "Quick start",
         "installation-of-application": "Installation of application",
         "cli-tutorial": "CLI tutorial",
+        "user-interface": "User Interface",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-tutor-addtutor": "Adding a Tutor: addTutor",
