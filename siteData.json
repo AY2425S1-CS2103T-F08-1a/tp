@@ -110,7 +110,6 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
         "voluntier-user-guide": "VolunTier User Guide",
         "introduction": "Introduction",
