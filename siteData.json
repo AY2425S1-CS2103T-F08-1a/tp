@@ -38,6 +38,7 @@
     },
     {
       "src": "DeveloperGuide.md",
+      "title": "Developer Guide",
       "headings": {
         "voluntier-developer-guide": "VolunTier Developer Guide",
         "acknowledgements": "Acknowledgements",
@@ -51,7 +52,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "csv-import-feature": "CSV import feature",
-        "view-tutee-chart-feature": "View Tutee Chart feature",
+        "view-tutor-chart-feature": "View Tutor Chart feature",
         "undo-redo-feature": "Undo/redo feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -67,7 +68,8 @@
         "adding-a-tutor": "Adding a tutor",
         "editing-a-tutor": "Editing a tutor",
         "find-subjects": "Find subjects",
-        "adding-a-lesson": "Adding a lesson"
+        "adding-a-lesson": "Adding a lesson",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
